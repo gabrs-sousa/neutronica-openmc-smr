@@ -1,0 +1,46 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+
+# VSCode
+.vscode/
+
+# Ambientes
+env/
+venv/
+.openmc-env/
+.conda/
+*.env
+*.yml
+
+# Dados de simulação
+statepoint.*.h5
+summary.h5
+*.xml
+*.h5
+*.out
+*.meshtal
+*.vtk
+
+# Arquivos gerados pelo OpenMC
+*.png
+*.ppm
+*.svg
+
+# Arquivos temporários
+*.tar.xz
+*.zip
+*.tar
+*.gz
+*.DS_Store
+
+# Backup de sistemas
+*~ 
