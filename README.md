@@ -4,16 +4,16 @@ Este repositório reúne simulações e estudos em neutrônica realizados com o 
 
 ## Estrutura do Repositório
 
-neutronica-openmc-smr/
-├── 0_tutoriais/ # Exemplos e tutoriais adaptados (pin-cell, assemblies, etc)
-├── 1_benchmark_rrsmr/ # Modelagem do RR-SMR (baseada no artigo de referência)
-│ ├── geometry/
-│ ├── materials/
-│ ├── settings/
-│ └── tallies/
-├── 2_estudos_combustivel/ # Variações com ATFs (FeCrAl, U3Si2, revestimentos)
-├── 3_pos_processamento/ # Scripts de pós-processamento e visualização (Jupyter)
-└── README.md
+neutronica-openmc-smr/<br/>
+├── 0_tutoriais/ # Exemplos e tutoriais adaptados (pin-cell, assemblies, etc)<br/>
+├── 1_benchmark_rrsmr/ # Modelagem do RR-SMR (baseada no artigo de referência)<br/>
+│ ├── geometry/<br/>
+│ ├── materials/<br/>
+│ ├── settings/<br/>
+│ └── tallies/<br/>
+├── 2_estudos_combustivel/ # Variações com ATFs (FeCrAl, U3Si2, revestimentos)<br/>
+├── 3_pos_processamento/ # Scripts de pós-processamento e visualização (Jupyter)<br/>
+└── README.md<br/>
 
 
 ## Requisitos
